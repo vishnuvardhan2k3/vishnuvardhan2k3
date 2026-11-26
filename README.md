@@ -26,9 +26,7 @@ I'm a Software Engineer interested in building scalable backend applications, di
 **Backend Development**
 - Core Java
 - REST APIs
-- Spring Boot (Learning)
-
-- 
+- Spring Boot
 **Databases**
 - MySQL
 
