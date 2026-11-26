@@ -16,22 +16,19 @@ I'm a Software Engineer interested in building scalable backend applications, di
 - Java
 - Go
 - Python
+- PySpark
+- JavaScript
 - SQL
 - Shell Scripting
+- Docker
+- Git & GitHub
 
 **Backend Development**
 - Core Java
 - REST APIs
 - Spring Boot (Learning)
 
-**Cloud & DevOps**
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Git & GitHub
-- CI/CD
-
+- 
 **Databases**
 - MySQL
 
@@ -39,6 +36,7 @@ I'm a Software Engineer interested in building scalable backend applications, di
 
 - LinkedIn: www.linkedin.com/in/vishnuvardhan2k3
 - GitHub: https://github.com/vishnuvardhan2k3
+- Mail: Vishnuvardhan2k3@gmail.com
 
 ---
 
