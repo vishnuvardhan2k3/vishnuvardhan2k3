@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**vishnuvardhan2k3/vishnuvardhan2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, there I'm Vishnu 👋
 
-Here are some ideas to get you started:
+### Software Engineer 
+I'm a Software Engineer interested in building scalable backend applications, distributed systems and cloud-native solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Backend Development and System Design
+- 🚀 Working with Go, Java and Shell Scripting
+- 🔄 Learning CI/CD, Jenkins and DevOps practices
+- 📚 Continuously improving my Data Structures and Algorithms skills
+- 🎯 Focused on building reliable, scalable software solutions
+
+### 🛠️ Tech Stack
+
+**Programming Languages**
+- Java
+- Go
+- Python
+- SQL
+- Shell Scripting
+
+**Backend Development**
+- Core Java
+- REST APIs
+- Spring Boot (Learning)
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Git & GitHub
+- CI/CD
+
+**Databases**
+- MySQL
+
+### 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vishnuvardhan2k3
+- GitHub: https://github.com/vishnuvardhan2k3
+
+---
+
+⭐ *Always learning, building and improving!*
